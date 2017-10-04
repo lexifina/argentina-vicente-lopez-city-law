@@ -1,0 +1,22 @@
+Ordenanza Nº35473
+Ordenanza Nº 35473
+Vicente López, 03/08/2017
+Ref. Exptes. N°: 587/2017 H.C.D.
+4119-3234/2017 D.E.
+VISTO: La solicitud para declarar de Interés Municipal la aprobación de los "Lineamientos de Apoyo para la Alfabetización Digital para el Nivel Inicial", y;
+CONSIDERANDO: Que el Diseño Curricular para la Educación Inicial de la Dirección General de Cultura y Educación de la Provincia de Buenos Aires, aprobado por Resolución N° 3161/07 del Consejo General de Cultura y Educación, la Ley de Educación Provincial N° 13.688.
+Que, se ha contemplado la Ley de Educación de la Provincia de Buenos Aires, los lineamientos curriculares en su marco general, orientaciones para la enseñanza y áreas de enseñanza en el currículum, para la creación y elaboración en la Secretaría de Educación del Municipio de Vicente López de los lineamientos curriculares junto con los recursos digitales (no previstos en los lineamientos curriculares de Provincia de Buenos Aires) desde orientaciones posibles y ya implementadas en nuestros Jardines de Infantes.
+Que, entendemos por Educación al hecho de Formar situaciones generales y comprensión de la realidad, y el conocimiento de cómo y dónde encontrar las respuestas a problemas relacionados con las actividades cotidianas y de relación con el entorno, prestando atención a la Formación en valores y normas.
+Que, se busca de este modo de organizar la enseñanza, plantearnos una Educación integral para que los educandos puedan ser usuarios, consumidores y productores críticos en el contexto de los medios de información y comunicación social, con tecnologías convergentes aplicando estrategias y transformaciones significativas.
+Que, todo individuo desde su propia perspectiva y significado incorpora los cambios de paradigma que nos presenta la Cultura del conocimiento, y por ello se debe aplicar este cambio de paradigma a la Educación de hoy.
+Que, la integración de las Tecnologías de la Información y la Comunicación (TIC) nos desafían a repensar la Educación y concebir los procesos de enseñanza y aprendizaje, así como los recursos y elementos mediadores de la tarea en el aula.
+Que, el proyecto parte .de involucrar las tecnologías desde entornos comunes. El conocimiento instrumental de las tecnologías, la forma de interpretar e interaccionar con la realidad a través de ellas y las implicaciones sociales que conllevan, forman parte de la cultura de nuestro tiempo.
+Que, el contexto parte de desarrollar la idea de alfabetización en un sentido amplio, que supere el concepto de enseñar a leer, a escribir, teniendo en cuenta la alfabetización mediática, digital, tecnológica y ciudadana. Tanto en términos de lectura y escritura, como en función de otras áreas, donde es necesario repensar desde donde involucrar esos saberes.
+Que, se debe considerar tanto el recurso como su pedagogía en la implementación del mismo, ya que la tecnología favorece el aprendizaje siendo fortalecida en lo pedagógico, y a la vez, su eficiencia al producir el uso efectivo con los lineamientos curriculares.
+Que, en este mismo sentido, se debe tener en cuenta la formación en competencias y habilidades en el uso de las TIC con trabajos en equipo, en ambientes multiculturales.Que, se propone buscar la tecnología como camino de la mejora de la práctica docente, planteando reflexión, participación, aportes y construcción colaborativa, construyendo nuevas formas de inclusión de una ciudadanía digital.
+Que, como parte de las políticas públicas que se deben llevar a cabo en materia de tecnologías aplicadas a la Educación, debemos colaborar y formar, para que nuestros ciudadanos adquieran los saberes y las competencias necesarias para desarrollarse y acceder a una inserción laboral que se prolongue en el tiempo y les permita desenvolver su vida ciudadana en libertad.
+Que, se trazan mecanismos capaces de validar las competencias adquiridas en la Educación, en el trabajo y en la vida.
+Que, se parte de un proyecto educativo que busca integración digital desde un marco multidisciplinario donde "Aprender a Aprender" es un camino sin retorno en los procesos de enseñanza y aprendizaje para la sociedad del siglo XXI.
+Que, por todo lo expuesto uno de nuestros principales ejes a desarrollar como objetivo transformador es la Incorporación de la tecnología y modernización de la práctica docente.
+POR ELLO, EL HONORABLE CONCEJO DELIBERANTE SANCIONA CON FUERZA DE:
+ORDENANZA
