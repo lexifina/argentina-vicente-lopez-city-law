@@ -1,0 +1,1 @@
+ARTICULO 1°: APRUEBASE la Rendición de Cuentas, Memoria y Balance Financiero, Expediente N° 0262/18 HCD y Adjunte N° 4119-001379/2018 DE (IV Cuerpos) y Expediente N° 0263/18 HCD y Adjunte N°4119-001119/2018 DE, correspondiente al Ejercicio 2017 elevados por el Departamento Ejecutivo, en un todo de acuerdo con la normativa vigente.
