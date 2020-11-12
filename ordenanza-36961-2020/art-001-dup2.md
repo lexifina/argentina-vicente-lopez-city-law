@@ -1,0 +1,1 @@
+ARTICULO 1°: APRUEBASE la Rendición de Cuentas, y Memoria y Balance Financiero, Expediente N° 0 187/2020 HCD y Adjunte N° 4119-000469/2020 D.E. y Adjunte N° 4119-001395/2020 D.E., correspondiente al Ejercicio 2019 elevados por el Departamento Ejecutivo, en un todo de acuerdo con la normativa vigente. -
