@@ -1,0 +1,13 @@
+Ordenanza Nº38159
+Ordenanza Nº 38159
+Vicente López, 31/10/2023
+Ref. Exptes. N° 0491/2023 H.C.D.
+EEMVL 4289/2023
+VISTO: El anteproyecto que solicita la homologación del Convenio suscripto entre el Departamento Ejecutivo y la Cooperativa de Trabajo y Servicios Médicos SERMED LTDA, con fecha 13 de enero de 2023, para la prestación de Servicio de Anestesias Programadas en el Hospital Municipal “Prof. Dr. B.A. Houssay”, y;
+CONSIDERANDO: Que a través del expediente Nro. EEMVL-6162/2022 se tramita la contratación de los Servicios Médico- Asistenciales con destino al Hospital Municipal “Prof. Dr. Bernardo A. Houssay” para el ejercicio 2023.
+Que, con fecha 13 de enero de 2023, se suscribió un Convenio con la Cooperativa de Trabajo y Servicios Médicos SERMED Ltda., para la prestación de servicios de anestesias programadas con destino al Hospital Municipal “Prof. Dr. Bernardo A. Houssay”, referentes a las cirugías de baja, media y alta complejidad.
+Que, el Convenio aludido se firmó en un todo de acuerdo a lo establecido por Decreto N° 6576/2022, mediante el cual se declara vigente lo dispuesto por conducto de su similar N° 2784/2005, a través del cual se faculta a la Secretaría de Salud a adoptar las medidas tendientes a garantizar la continuidad en la prestación de los servicios de anestesia para los pacientes del Hospital Municipal “Prof. Dr. Bernardo A. Houssay” y del Hospital y Maternidad “Santa Rosa”.
+Que, la Cooperativa de Trabajo y Servicios Médicos SERMED Ltda., actual prestataria de este servicio, viene cumpliendo el mismo a entera satisfacción de la Secretaría de Salud con excelentes resultados, y que los costos evaluados responden a los del mercado, siendo de evidente conveniencia para la Comuna.
+Que existen antecedentes en la celebración de convenios con la citada firma y que cuentan con la aprobación de este Honorable Cuerpo.
+POR ELLO, EL HONORABLE CONCEJO DELIBERANTE SANCIONA CON FUERZA DE:
+ORDENANZA
