@@ -1,0 +1,10 @@
+# Ordenanza 35541/2017: HOMOLOGASE el Convenio suscripto con fecha 3 del mes agosto de 2017, entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de Vicente López, registrado baja el N° 
+
+Ordenanza 35541/2017 · 1 versions, from 2017-11-19 (latest in force: 2017-11-19) · <https://sibom.slyt.gba.gob.ar/bulletins/436/contents/1166683>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Artículo 3 | [art-003.md](art-003.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |

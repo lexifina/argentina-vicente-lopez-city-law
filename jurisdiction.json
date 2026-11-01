@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-vicente-lopez",
+  "code": "AR-B-VICENTE-LOPEZ",
+  "name": "Vicente López",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-vicente-lopez-city-law",
+  "build": "built: municipal ordinances (73 ordinances, 73 versions) from https://sibom.slyt.gba.gob.ar/cities/131",
+  "language": "es",
+  "sources": 1
+}
