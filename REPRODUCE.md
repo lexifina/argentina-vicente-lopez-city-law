@@ -174,7 +174,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-38090-2023` | Ordenanza 38090/2023: Artículo 1°: Declárese de Interés Municipal el Acto Pioneros del Futuro, organizado por la Asociación de Fundadores y Pioneros de Vicente Lopez y el Centro de Veteranos de Guerra de Malvinas de Vicente López, a llevarse  | 1 | 2023-11-26 to 2023-11-26 |
 | `ordenanza-38170-2023` | Ordenanza 38170/2023: Articulo 1°: AUTORIZAR al Departamento Ejecutivo a colocar un limitador de velocidad, en la calle Almafuerte a metros antes de la intersección con la calle Cabildo, del barrio de Carapachay. | 1 | 2023-12-15 to 2023-12-15 |
 
-The build made 158 commits:
+The build made 160 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -199,7 +199,7 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
 - Corpus: sha256 `0692df154c4fd99e0979a31a884ed62e1cec95d93300565444f457b69e5630bc` (947985 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Builder blob hashes (`git hash-object`): `build.py` `0fad90cf931c453951234ecf904d05ee79f3ec7e`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
