@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-vicente-lopez-city-law",
-  "build": "built: municipal ordinances (73 ordinances, 73 versions) from https://sibom.slyt.gba.gob.ar/cities/131",
+  "build": "built: 158 municipal ordinance text records (73 previously published, 85 additional); six further source acts held outside the corpus; gazette texts as published with two explicit current Article 2 replacements; certified current consolidation not supplied by SIBOM",
   "language": "es",
   "sources": 1
 }

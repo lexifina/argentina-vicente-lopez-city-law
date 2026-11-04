@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-73 ordinances so far, in force from 26 August 2017 to 10 December 2023, each as published in the Boletín Oficial Municipal de Vicente López, added in parts.
+158 ordinance text records: 73 previously published and 85 additional admitted texts. Six further source acts are held outside the corpus. The record preserves gazette texts as published, with the explicit Article 2 replacements in Ordinances 36427/2019 and 36947/2020 applied from their latest amendment dates; SIBOM does not supply a separately certified current consolidation.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -252,3 +252,93 @@ This is not an official publication. The binding text is the one published in th
 | Ordenanza 38131 | 17 November 2023 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/9644/contents/1969884> |
 | Ordenanza 38178 | 6 December 2023 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/9828/contents/1989280> |
 | Ordenanza 38190 | 4 January 2024 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/9963/contents/2002423> |
+
+## Additional source records
+
+| Folder | Ordinance | Record |
+| --- | --- | --- |
+| `ordenanza-35324-2017/` | Ordenanza 35324/2017 | gazette text as published; source-dated 2017-08-12 |
+| `ordenanza-35325-2017/` | Ordenanza 35325/2017 | gazette text as published; source-dated 2017-08-12 |
+| `ordenanza-35379-2017/` | Ordenanza 35379/2017 | gazette text as published; source-dated 2017-08-25 |
+| `ordenanza-35385-2017/` | Ordenanza 35385/2017 | gazette text as published; source-dated 2017-08-26 |
+| `ordenanza-35388-2017/` | Ordenanza 35388/2017 | gazette text as published; source-dated 2017-08-26 |
+| `ordenanza-35420-2017/` | Ordenanza 35420/2017 | gazette text as published; source-dated 2017-09-15 |
+| `ordenanza-35473-2017/` | Ordenanza 35473/2017 | gazette text as published; source-dated 2017-10-04 |
+| `ordenanza-35480-2017/` | Ordenanza 35480/2017 | gazette text as published; source-dated 2017-11-01 |
+| `ordenanza-35516-2017/` | Ordenanza 35516/2017 | gazette text as published; source-dated 2017-11-01 |
+| `ordenanza-35547-2017/` | Ordenanza 35547/2017 | gazette text as published; source-dated 2017-11-19 |
+| `ordenanza-35578-2017/` | Ordenanza 35578/2017 | gazette text as published; source-dated 2017-11-19 |
+| `ordenanza-35579-2017/` | Ordenanza 35579/2017 | gazette text as published; source-dated 2017-11-19 |
+| `ordenanza-35582-2017/` | Ordenanza 35582/2017 | gazette text as published; source-dated 2017-11-19 |
+| `ordenanza-35583-2017/` | Ordenanza 35583/2017 | gazette text as published; source-dated 2017-11-19 |
+| `ordenanza-35586-2017/` | Ordenanza 35586/2017 | gazette text as published; source-dated 2017-11-19 |
+| `ordenanza-35619-2017/` | Ordenanza 35619/2017 | gazette text as published; source-dated 2017-12-24 |
+| `ordenanza-35649-2017/` | Ordenanza 35649/2017 | gazette text as published; source-dated 2018-01-12 |
+| `ordenanza-35784-2017/` | Ordenanza 35784/2017 | gazette text as published; source-dated 2018-02-04 |
+| `ordenanza-35791-2017/` | Ordenanza 35791/2017 | gazette text as published; source-dated 2018-02-04 |
+| `ordenanza-35839-2017/` | Ordenanza 35839/2017 | gazette text as published; source-dated 2018-02-04 |
+| `ordenanza-35841-2017/` | Ordenanza 35841/2017 | gazette text as published; source-dated 2018-02-04 |
+| `ordenanza-35905-2018/` | Ordenanza 35905/2018 | gazette text as published; source-dated 2018-04-01 |
+| `ordenanza-35943-2018/` | Ordenanza 35943/2018 | gazette text as published; source-dated 2018-07-12 |
+| `ordenanza-35950-2018/` | Ordenanza 35950/2018 | gazette text as published; source-dated 2018-07-12 |
+| `ordenanza-35952-2018/` | Ordenanza 35952/2018 | gazette text as published; source-dated 2018-07-12 |
+| `ordenanza-35968-2018/` | Ordenanza 35968/2018 | gazette text as published; source-dated 2018-07-12 |
+| `ordenanza-36028-2018/` | Ordenanza 36028/2018 | gazette text as published; source-dated 2018-08-26 |
+| `ordenanza-36062-2018/` | Ordenanza 36062/2018 | gazette text as published; source-dated 2018-09-12 |
+| `ordenanza-36132-2018/` | Ordenanza 36132/2018 | gazette text as published; source-dated 2018-11-01 |
+| `ordenanza-36133-2018/` | Ordenanza 36133/2018 | gazette text as published; source-dated 2018-11-01 |
+| `ordenanza-36157-2018/` | Ordenanza 36157/2018 | gazette text as published; source-dated 2018-11-01 |
+| `ordenanza-36198-2018/` | Ordenanza 36198/2018 | gazette text as published; source-dated 2018-12-01 |
+| `ordenanza-36250-2018/` | Ordenanza 36250/2018 | gazette text as published; source-dated 2018-12-27 |
+| `ordenanza-36251-2018/` | Ordenanza 36251/2018 | gazette text as published; source-dated 2018-12-27 |
+| `ordenanza-36259-2018/` | Ordenanza 36259/2018 | gazette text as published; source-dated 2018-12-27 |
+| `ordenanza-36295-2018/` | Ordenanza 36295/2018 | gazette text as published; source-dated 2019-01-27 |
+| `ordenanza-36343-2018/` | Ordenanza 36343/2018 | gazette text as published; source-dated 2019-02-09 |
+| `ordenanza-36347-2018/` | Ordenanza 36347/2018 | gazette text as published; source-dated 2019-02-09 |
+| `ordenanza-36427-2019/` | Ordenanza 36427/2019 | current Article 2; source-dated 2019-11-22 |
+| `ordenanza-36497-2019/` | Ordenanza 36497/2019 | gazette text as published; source-dated 2019-08-24 |
+| `ordenanza-36593-2019/` | Ordenanza 36593/2019 | gazette text as published; source-dated 2019-10-25 |
+| `ordenanza-36605-2019/` | Ordenanza 36605/2019 | gazette text as published; source-dated 2019-11-22 |
+| `ordenanza-36635-2019/` | Ordenanza 36635/2019 | gazette text as published; source-dated 2019-12-19 |
+| `ordenanza-36659-2019/` | Ordenanza 36659/2019 | gazette text as published; source-dated 2019-12-19 |
+| `ordenanza-36697-2019/` | Ordenanza 36697/2019 | gazette text as published; source-dated 2019-12-19 |
+| `ordenanza-36782-2019/` | Ordenanza 36782/2019 | gazette text as published; source-dated 2020-02-01 |
+| `ordenanza-36841-2019/` | Ordenanza 36841/2019 | gazette text as published; source-dated 2020-02-01 |
+| `ordenanza-36842-2019/` | Ordenanza 36842/2019 | gazette text as published; source-dated 2020-02-01 |
+| `ordenanza-36845-2019/` | Ordenanza 36845/2019 | gazette text as published; source-dated 2020-02-01 |
+| `ordenanza-36903-2020/` | Ordenanza 36903/2020 | gazette text as published; source-dated 2020-07-12 |
+| `ordenanza-36927-2020/` | Ordenanza 36927/2020 | gazette text as published; source-dated 2020-07-30 |
+| `ordenanza-36947-2020/` | Ordenanza 36947/2020 | current Article 2; source-dated 2021-11-25 |
+| `ordenanza-36948-2020/` | Ordenanza 36948/2020 | gazette text as published; source-dated 2020-09-13 |
+| `ordenanza-36949-2020/` | Ordenanza 36949/2020 | gazette text as published; source-dated 2020-09-13 |
+| `ordenanza-36958-2020/` | Ordenanza 36958/2020 | gazette text as published; source-dated 2020-11-04 |
+| `ordenanza-36961-2020/` | Ordenanza 36961/2020 | gazette text as published; source-dated 2020-11-12 |
+| `ordenanza-36972-2020/` | Ordenanza 36972/2020 | gazette text as published; source-dated 2020-11-12 |
+| `ordenanza-36997-2020/` | Ordenanza 36997/2020 | gazette text as published; source-dated 2021-01-06 |
+| `ordenanza-37059-2021/` | Ordenanza 37059/2021 | gazette text as published; source-dated 2021-07-03 |
+| `ordenanza-37085-2020/` | Ordenanza 37085/2020 | gazette text as published; source-dated 2021-02-13 |
+| `ordenanza-37160-2021/` | Ordenanza 37160/2021 | gazette text as published; source-dated 2021-07-03 |
+| `ordenanza-37173-2021/` | Ordenanza 37173/2021 | gazette text as published; source-dated 2021-09-15 |
+| `ordenanza-37184-2021/` | Ordenanza 37184/2021 | gazette text as published; source-dated 2021-09-15 |
+| `ordenanza-37188-2021/` | Ordenanza 37188/2021 | gazette text as published; source-dated 2021-09-15 |
+| `ordenanza-37209-2021/` | Ordenanza 37209/2021 | gazette text as published; source-dated 2021-07-30 |
+| `ordenanza-37297-2021/` | Ordenanza 37297/2021 | gazette text as published; source-dated 2021-11-25 |
+| `ordenanza-37299-2021/` | Ordenanza 37299/2021 | gazette text as published; source-dated 2021-11-25 |
+| `ordenanza-37300-2021/` | Ordenanza 37300/2021 | gazette text as published; source-dated 2021-11-25 |
+| `ordenanza-37301-2021/` | Ordenanza 37301/2021 | gazette text as published; source-dated 2021-11-25 |
+| `ordenanza-37302-2021/` | Ordenanza 37302/2021 | gazette text as published; source-dated 2021-11-25 |
+| `ordenanza-37425-2021/` | Ordenanza 37425/2021 | gazette text as published; source-dated 2022-01-12 |
+| `ordenanza-37547-2022/` | Ordenanza 37547/2022 | gazette text as published; source-dated 2022-06-25 |
+| `ordenanza-37548-2022/` | Ordenanza 37548/2022 | gazette text as published; source-dated 2022-06-25 |
+| `ordenanza-37549-2022/` | Ordenanza 37549/2022 | gazette text as published; source-dated 2022-06-25 |
+| `ordenanza-37566-2022/` | Ordenanza 37566/2022 | gazette text as published; source-dated 2022-08-06 |
+| `ordenanza-37567-2022/` | Ordenanza 37567/2022 | gazette text as published; source-dated 2022-08-06 |
+| `ordenanza-37610-2022/` | Ordenanza 37610/2022 | gazette text as published; source-dated 2022-08-17 |
+| `ordenanza-37627-2022/` | Ordenanza 37627/2022 | gazette text as published; source-dated 2022-08-17 |
+| `ordenanza-37808-2022/` | Ordenanza 37808/2022 | gazette text as published; source-dated 2022-12-15 |
+| `ordenanza-37932-2023/` | Ordenanza 37932/2023 | gazette text as published; source-dated 2023-05-13 |
+| `ordenanza-37997-2023/` | Ordenanza 37997/2023 | gazette text as published; source-dated 2023-06-14 |
+| `ordenanza-38087-2023/` | Ordenanza 38087/2023 | gazette text as published; source-dated 2023-10-20 |
+| `ordenanza-38089-2023/` | Ordenanza 38089/2023 | gazette text as published; source-dated 2023-10-20 |
+| `ordenanza-38090-2023/` | Ordenanza 38090/2023 | gazette text as published; source-dated 2023-11-26 |
+| `ordenanza-38170-2023/` | Ordenanza 38170/2023 | gazette text as published; source-dated 2023-12-15 |

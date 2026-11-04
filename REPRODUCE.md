@@ -1,12 +1,13 @@
 # How this repository was made (Vicente López)
 
-This file is written by the build on 2026-11-01, the day the source data was retrieved.
+This file is written by the build on 2026-11-04, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Vicente López | <https://sibom.slyt.gba.gob.ar/cities/131> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Vicente López | <https://sibom.slyt.gba.gob.ar/cities/131> | 2026-11-04 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -87,20 +88,105 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-38161-2023` | Ordenanza 38161/2023: HOMOLÓGASE el Convenio suscripto entre el Departamento Ejecutivo y la Cooperativa de Trabajo de Servicios Médicos SERMED Ltda., con fecha 13 de enero de 2023, para la prestación de Servicios Médico - Asistenciales en la  | 1 | 2023-12-10 to 2023-12-10 |
 | `ordenanza-38162-2023` | Ordenanza 38162/2023: HOMOLÓGASE el Convenio suscripto entre el Departamento Ejecutivo y la Asociación de Anestesia, Analgesia y Reanimación de Buenos Aires (AAARBA), con fecha 13 de febrero de 2023, para la prestación de Servicios Médico - A | 1 | 2023-12-10 to 2023-12-10 |
 | `ordenanza-38163-2023` | Ordenanza 38163/2023: HOMOLOGAR la prórroga del Contrato de Locación suscripta con fecha 5 de enero de 2023, entre el Municipio y el Club Social y Deportivo Unión de Olivos, para que continúe funcionando en el inmueble ubicado en la calle Dom | 1 | 2023-12-10 to 2023-12-10 |
+| `ordenanza-35324-2017` | Ordenanza 35324/2017: ARTICULO 1°: Declárese de Interés Público la construcción y funcionamiento de un Centro Barrial de Infancia en la Zona de influencia del barrio denominado "Las Flores", ubicado en el barrio de Villa Martelli del Partido  | 1 | 2017-08-12 to 2017-08-12 |
+| `ordenanza-35325-2017` | Ordenanza 35325/2017: ARTICULO 1°: HOMOLOGANSE los Decretos 56/16 HCD, 642/16, 1058/16, 73/16 HCD, 1573/16, 110/16 HCD, 1699/16, 1870/16, 1871/16, 226/16 HCD, 2443/16, 2589/16, 2944/16, 3006/16, 2976/16, 2982/16, 3016/16, 3179/16, 3175/16, 31 | 1 | 2017-08-12 to 2017-08-12 |
+| `ordenanza-35379-2017` | Ordenanza 35379/2017: ARTICULO 1°: AUTORIZASE al Departamento Ejecutivo a suscribir el Convenio de Cooperación para la implementación del Programa Unidades de Desarrollo Infantil (U.D.I.) con el Ministerio de Desarrollo Social de la Provincia | 1 | 2017-08-25 to 2017-08-25 |
+| `ordenanza-35385-2017` | Ordenanza 35385/2017: ARTICULO 1°: HOMOLÓGASE el Convenio suscripto entre el Departamento Ejecutivo y profesionales asociados a la Asociación de Anestesia, Analgesia y Reanimación de Buenos Aires (AAARBA), con fecha 21 de abril de 2017, para  | 1 | 2017-08-26 to 2017-08-26 |
+| `ordenanza-35388-2017` | Ordenanza 35388/2017: ARTICULO 1°: Declárese "Monumento Histórico Municipal" a la "Casona Josefina Colmegna de Bignone", ubicada en la calle Martín J. Haedo N° 1424/26 con frente también a la calle Carlos F. Melo, del barrio de Vicente López, | 1 | 2017-08-26 to 2017-08-26 |
+| `ordenanza-35420-2017` | Ordenanza 35420/2017: ARTICULO 1°: HOMOLOGASE el Convenio Marco de Cooperación y Colaboración "Evaluación de la efectividad de las mentorías con pares y el auto-monitoreo para mejorar el manejo y control de la hipertensión arterial en poblaci | 1 | 2017-09-15 to 2017-09-15 |
+| `ordenanza-35473-2017` | Ordenanza 35473/2017: ARTICULO 1°.- Declárese de Interés Municipal la Aprobación de los "Lineamientos de apoyo para la alfabetización digital para el nivel inicial". | 1 | 2017-10-04 to 2017-10-04 |
+| `ordenanza-35480-2017` | Ordenanza 35480/2017: ARTICULO 1°: CONDONASE, atento los términos que emana de la Ley Provincial N° 14.879, en sus art. 53° y 54'; las deudas que mantienen los contribuyentes de todos los Tributos regulados por el Ordenamiento Fiscal del Part | 1 | 2017-11-01 to 2017-11-01 |
+| `ordenanza-35516-2017` | Ordenanza 35516/2017: ARTICULO 1°: HOMOLÓGUESE el Contrato de Locación suscripto con fecha 27 de abril de 2017, entre la Asociación Colombófila de Vicente López y la Municipalidad de Vicente López, respecto del inmueble ubicado en la calle Be | 1 | 2017-11-01 to 2017-11-01 |
+| `ordenanza-35547-2017` | Ordenanza 35547/2017: ARTICULO 1°: Homológase el Convenio celebrado entre el Ministerio de Gobierno, Subsecretaría de Coordinación Gubernamental, Dirección Provincial del Registro de las Personas de la Provincia de Buenos Aires y la Municipal | 1 | 2017-11-19 to 2017-11-19 |
+| `ordenanza-35578-2017` | Ordenanza 35578/2017: ARTICULO 1°.- HOMOLOGASE el Acuerdo de Cooperación firmado entre la Municipalidad de Vicente López y la Empresa Agua y Saneamientos Argentinos S.A. (AySA S.A.), por el cual las partes convienen desarrollar programas y/o  | 1 | 2017-11-19 to 2017-11-19 |
+| `ordenanza-35579-2017` | Ordenanza 35579/2017: ARTICULO 1°.- OTORGASE una prórroga hasta el día 30 de Noviembre de 2017 inclusive a los efectos que el Departamento Ejecutivo presente a este Honorable Concejo Deliberante el Proyecto de Presupuesto de Gastos y Cálculo  | 1 | 2017-11-19 to 2017-11-19 |
+| `ordenanza-35582-2017` | Ordenanza 35582/2017: ARTICULO 1°.- RECTIFICASE al Artículo 1° de la Ordenanza N° 35.307 promulgada por Decreto N° 1883 de fecha 5 de mayo de 2017, el que quedará redactado de la siguiente manera: | 1 | 2017-11-19 to 2017-11-19 |
+| `ordenanza-35583-2017` | Ordenanza 35583/2017: ARTÍCULO 1°: Reconócese del Legítimo Abono, el importe de $35.283,60 (Pesos Treinta y Cinco Mil Doscientos Ochenta y Tres con Sesenta Centavos) adeudado a la empresa Invise Seguridad Argentina S.A. por el servicio de mon | 1 | 2017-11-19 to 2017-11-19 |
+| `ordenanza-35586-2017` | Ordenanza 35586/2017: ARTICULO 1°.- Declárese el día 31 de octubre de cada ario, como el "Día de las Iglesias Evangélicas" en conmemoración del pentacentenario de la Reforma Protestante. | 1 | 2017-11-19 to 2017-11-19 |
+| `ordenanza-35619-2017` | Ordenanza 35619/2017: ARTICULO 1°: HOMOLOGASE el Convenio Marco de Colaboración, Prevención y Control Sanitario de Zoonosis entre la Municipalidad de Vicente López y la Municipalidad de San | 1 | 2017-12-24 to 2017-12-24 |
+| `ordenanza-35649-2017` | Ordenanza 35649/2017: ARTICULO 1°.- APRUÉBESE el proyecto de realización de trabajos en la calle Nicolás Avellaneda, en el tramo comprendido entre el acceso a la Estación Aristóbulo del Valle y la calle Aristóbulo del Valle, transformando a d | 1 | 2018-01-12 to 2018-01-12 |
+| `ordenanza-35784-2017` | Ordenanza 35784/2017: ARTICULO 1°.- Autorízase el estacionamiento junto a la acera izquierda de las calles que se detallan ya que por ninguna circula el transporte público: | 1 | 2018-02-04 to 2018-02-04 |
+| `ordenanza-35791-2017` | Ordenanza 35791/2017: ARTÍCULO 1°: Prohíbase en todo el ámbito del Partido de Vicente López la introducción, cualquier forma de comercialización, exposición tenencia o entrega a título gratuito u oneroso de animales de las especies denominada | 1 | 2018-02-04 to 2018-02-04 |
+| `ordenanza-35839-2017` | Ordenanza 35839/2017: ARTICULO 1°: ADHIERASE el Municipio de Vicente López a la Ley Provincial N° 14984, que modifica la Ley Provincial N° 13.295. | 1 | 2018-02-04 to 2018-02-04 |
+| `ordenanza-35841-2017` | Ordenanza 35841/2017: ARTICULO 1°.- Agregase al Código de la Edificación de Vicente López el Artículo 2.4.6.3, el que quedará redactado de la siguiente forma: | 1 | 2018-02-04 to 2018-02-04 |
+| `ordenanza-35905-2018` | Ordenanza 35905/2018: ARTICULO 1°.- Modifíquese la Ordenanza 5566, que regula la actividad Taxi, en su Artículo 47°, dando de baja a las Paradas de. Estación Olivos F.C.G.B.M. (Sector A)- con 15 (quince) vehículds), Estación Olivos F.C.G.B.M. | 1 | 2018-04-01 to 2018-04-01 |
+| `ordenanza-35943-2018` | Ordenanza 35943/2018: ARTICULO 1°.- ASÍGNESE doble sentido de circulación a la calle Solís entre Italia y Malaver con dirección Norte Sur y viceversa permitiendo estacionar en los lugares demarcados a tal fin por la Secretaría de Tránsito, Tr | 1 | 2018-07-12 to 2018-07-12 |
+| `ordenanza-35950-2018` | Ordenanza 35950/2018: ARTICULO 1°.- AUTORIZASE el estacionamiento junto a la acera izquierda de la calle Rosales entre Sturiza y Corrientes. - | 1 | 2018-07-12 to 2018-07-12 |
+| `ordenanza-35952-2018` | Ordenanza 35952/2018: ARTICULO 1°.- AUTORIZASE el estacionamiento junto a la acera izquierda de la calle Ing. White entre Avda. Mitre y E. Echeverría. ya que no circula el transporte público, respetando las entradas de cocheras, sendas peaton | 1 | 2018-07-12 to 2018-07-12 |
+| `ordenanza-35968-2018` | Ordenanza 35968/2018: ARTICULO 1°.- HOMOLOGANSE los Decretos 932/17, 1021/17, 257/17 HCD, 2337/17, 2338/17, 451/17 HCD, 3374/17, 594/17 HCD, 628/17 HCD, 4532/17, 4621/17, 4933/17, 5445/17, 5621/17, 5456/17, 955/17 HCD, 4971/17 y 1154/18 modif | 1 | 2018-07-12 to 2018-07-12 |
+| `ordenanza-36028-2018` | Ordenanza 36028/2018: ARTICULO 1°.- AUTORIZASE el estacionamiento junto a la acera izquierda de las calles que se detallan, ya que por ninguna circula el transporte público: | 1 | 2018-08-26 to 2018-08-26 |
+| `ordenanza-36062-2018` | Ordenanza 36062/2018: ARTICULO 1°.- DECLÁRESE "LUGAR DE INTERÉS HISTÓRICO MUNICIPAL" a la bóveda ubicada en el arrendamiento de la Sección 1° Tablón 53, Lote 1, del Cementerio Municipal mientras allí descansen los restos del Almirante Juan Pa | 1 | 2018-09-12 to 2018-09-12 |
+| `ordenanza-36132-2018` | Ordenanza 36132/2018: ARTICULO 1°.- Impónese el nombre de Centro Educativo de Formación Laboral "Javier Durlach", al establecimiento ubicado en la calle H. de la Quintana 2168/72 del barrio de Olivos Partido de Vicente López, el que depende d | 1 | 2018-11-01 to 2018-11-01 |
+| `ordenanza-36133-2018` | Ordenanza 36133/2018: ARTICULO 1°: Impónese el nombre de "Centro Universitario de Vicente López", al establecimiento ubicado en la calle Carlos Villate 4480 del barrio de Munro del Partido de Vicente López, el que depende de la Secretaría de  | 1 | 2018-11-01 to 2018-11-01 |
+| `ordenanza-36157-2018` | Ordenanza 36157/2018: ARTICULO 1°.- Autorízase al Departamento Ejecutivo a demarcar un modulo de estacionamiento para discapacitado por cuadra en la zona comercial de V. Adelina en la traza de Avda. Paraná entre P. Junta y M. Pedraza del barr | 1 | 2018-11-01 to 2018-11-01 |
+| `ordenanza-36198-2018` | Ordenanza 36198/2018: ARTICULO 1°.- Establécese como fecha aniversario de los barrios de nuestra Ciudad de Vicente López a las siguientes: | 1 | 2018-12-01 to 2018-12-01 |
+| `ordenanza-36250-2018` | Ordenanza 36250/2018: ARTICULO 1°.- MODIFÍQUESE Y AMPLÍESE el Artículo 4° de la Ordenanza N° 35.770, el que quedará redactado de la siguiente forma. | 1 | 2018-12-27 to 2018-12-27 |
+| `ordenanza-36251-2018` | Ordenanza 36251/2018: ARTICULO 1°: OTORGASE una prórroga hasta el día 30 de Noviembre de 2018 inclusive a los efectos que el Departamento Ejecutivo presente a este Honorable Concejo Deliberante el Proyecto de Presupuesto de Gastos y Cálculo d | 1 | 2018-12-27 to 2018-12-27 |
+| `ordenanza-36259-2018` | Ordenanza 36259/2018: ARTICULO 1°.- Autorizase el estacionamiento junto a la acera izquierda de las calles que se detallan ya que por ninguna circula el transporte público: | 1 | 2018-12-27 to 2018-12-27 |
+| `ordenanza-36295-2018` | Ordenanza 36295/2018: ARTICULO 1°: Autorizase al Departamento Ejecutivo a proceder al llamado a LICITACION PÚBLICA para la contratación de los servicios del Crematorio para la realización de las cremaciones a ejecutarse en el Cementerio de Ol | 1 | 2019-01-27 to 2019-01-27 |
+| `ordenanza-36343-2018` | Ordenanza 36343/2018: ARTICULO 1°.- Autorízase el estacionamiento junto a la acera izquierda de la calle Bogado desde la calle Caseros hasta su finalización. | 1 | 2019-02-09 to 2019-02-09 |
+| `ordenanza-36347-2018` | Ordenanza 36347/2018: ARTICULO 1°.- Autorízase el estacionamiento junto a la acera par de la calle Las Heras 3500 desde la Avenida Mitre hasta las vías de Ferrovías en el barrio de Villa Martelli. | 1 | 2019-02-09 to 2019-02-09 |
+| `ordenanza-36427-2019` | Ordenanza 36427/2019: ARTICULO 1°: FACÚLTASE al Departamento Ejecutivo a contraer con el banco de la Provincia de Buenos Aires un empréstito de hasta la suma de $150.000.000,00 (Pesos Ciento Cincuenta Millones). | 1 | 2019-11-22 to 2019-11-22 |
+| `ordenanza-36497-2019` | Ordenanza 36497/2019: ARTICULO 1°.- Declárese de Interés Municipal los eventos que durante el mes de Mayo de 2019 se llevaran a cabo en el ámbito local como así también en Latinoamérica y el resto del Mundo, generando conciencia en el "Día Mu | 1 | 2019-08-24 to 2019-08-24 |
+| `ordenanza-36593-2019` | Ordenanza 36593/2019: ARTICULO 1°.- Autorícese la instalación de mobiliarios urbanos Flex Bean y/o New Jersey de hormigón debidamente señalizado con material retrorreflectantes que contribuyan a reducir el radio de giro en las siguientes arte | 1 | 2019-10-25 to 2019-10-25 |
+| `ordenanza-36605-2019` | Ordenanza 36605/2019: ARTICULO 1°.- REEMPLAZASE el Art. 2° de la Ordenanza Preparatoria 36427, el que quedará redactado de la siguiente manera: "ARTICULO 2°: El préstamo que se autoriza contraer estará sujeto a las siguientes condiciones fina | 1 | 2019-11-22 to 2019-11-22 |
+| `ordenanza-36635-2019` | Ordenanza 36635/2019: ARTICULO 1°.- Condonase atento los términos que emanan de la Ley Provincial 15078, en sus Art. 35° y 36° las deudas que mantienen los contribuyentes de todos los Tributos regulados por el Ordenamiento Fiscal del Partido  | 1 | 2019-12-19 to 2019-12-19 |
+| `ordenanza-36659-2019` | Ordenanza 36659/2019: ARTICULO 1°.- AUTORIZASE el estacionamiento junto a la acera izquierda exclusivo para automóviles de las calles que se detallan ya que por ninguna circula el transporte público: | 1 | 2019-12-19 to 2019-12-19 |
+| `ordenanza-36697-2019` | Ordenanza 36697/2019: ARTICULO 1°: Créase el "Museo y Archivo Documental de la Ciudad de Vicente López" dentro de la estructura orgánica del Municipio. | 1 | 2019-12-19 to 2019-12-19 |
+| `ordenanza-36782-2019` | Ordenanza 36782/2019: ARTICULO 1°: AUTORIZASE al Departamento Ejecutivo por intermedio de la Secretaría de Salud a la realización por cualquiera de los procedimientos previstos en el art. 159° LOM, del Sistema Tomógrafo Computado Helicoidal M | 1 | 2020-02-01 to 2020-02-01 |
+| `ordenanza-36841-2019` | Ordenanza 36841/2019: ARTÍCULO 1°: Autorízase al Departamento Ejecutivo Municipal para que a través de la Secretaría de Educación y Empleo, se gestione la realización del llamado a Licitación Pública a través del Pliego de Especificaciones co | 1 | 2020-02-01 to 2020-02-01 |
+| `ordenanza-36842-2019` | Ordenanza 36842/2019: ARTICULO 1°.- DEROGASE la Ordenanza N° 30.666, promulgada por Decreto N° 1808 con fecha 23 de Mayo de 2011, en todos sus términos. | 1 | 2020-02-01 to 2020-02-01 |
+| `ordenanza-36845-2019` | Ordenanza 36845/2019: ARTÍCULO 1°: Establecer que la sede de funcionamiento del Jardín Maternal Municipal N° 12 "Palomitas Blancas" (DIEGEP N° 7572), desde el Ciclo Lectivo 2019, es en el inmueble ubicado en la calle José María Paz 3675, Plan | 1 | 2020-02-01 to 2020-02-01 |
+| `ordenanza-36903-2020` | Ordenanza 36903/2020: ARTICULO 1º.- Adhiérase la Municipalidad de Vicente López a la Ley N° 14.828 de la Provincia de Buenos Aires referente a la "Creación del Plan Estratégico de Modernización de la Administración Pública de la Provincia de  | 1 | 2020-07-12 to 2020-07-12 |
+| `ordenanza-36927-2020` | Ordenanza 36927/2020: ARTICULO 1º.- CONVALIDASE lo dispuesto a través de los Decretos N° 1930 y 1980 dictados con fecha 1º y 5 de junio del corriente año respectivamente, en virtud de los cuales se solicitó al Ministerio de Hacienda de la Pro | 1 | 2020-07-30 to 2020-07-30 |
+| `ordenanza-36947-2020` | Ordenanza 36947/2020: ARTICULO 1°: AUTORIZASE al Departamento Ejecutivo a formalizar contratos de locación con opción a compra bajo la modalidad de contratos de leasing con PROVINCIA LEASING S.A. sociedad con participación mayoritaria del Ban | 1 | 2021-11-25 to 2021-11-25 |
+| `ordenanza-36948-2020` | Ordenanza 36948/2020: ARTICULO 1°: HOMOLÓGASE la Addenda Ampliatoria del Contrato de Locación celebrado entre la Municipalidad de Vicente López y la Asociación Civil del Club de Leones de Villa Martelli, para que continúe funcionando en el in | 1 | 2020-09-13 to 2020-09-13 |
+| `ordenanza-36949-2020` | Ordenanza 36949/2020: ARTICULO 1°: HOMOLOGASE la Addenda Ampliatoria del Contrato de Locación celebrado entre la Municipalidad de Vicente López y la Sociedad de Fomento y Sala de Primeros Auxilios La Lucila, para que continúe funcionando en e | 1 | 2020-09-13 to 2020-09-13 |
+| `ordenanza-36958-2020` | Ordenanza 36958/2020: ARTÍCULO 1°: RECONÓCESE DE LEGITIMO ABONO, el importe de $509.035,29 (Pesos QUINIENTOS NUEVE MIL TREINTA Y CINCO CON VEINTINUEVE CENTAVOS), perteneciente a la Factura B N° 0119-00025454, Factura B N° 0119-00025455, Factu | 1 | 2020-11-04 to 2020-11-04 |
+| `ordenanza-36961-2020` | Ordenanza 36961/2020: ARTICULO 1°: CONVALÍDENSE LAS MODIFICACIONES PRESUPUESTARIAS CORRESPONDIENTES AL EJERCICIO 2019 Y HOMOLOGANSE los Decretos del Departamento Ejecutivo correspondientes al Expte. 343/19: Decretos 2683/19 DE, 2697/2019 DE,  | 1 | 2020-11-12 to 2020-11-12 |
+| `ordenanza-36972-2020` | Ordenanza 36972/2020: ARTÍCULO 1°: RECONOCESE DE LEGITIMO ABONO, el importe de $2.123. 1.58 (Pesos dos millones ciento veintitrés mil ciento cincuenta y ocho), perteneciente a la Factura B N° 0050-00015932, que se le adeudan a la firma LABORA | 1 | 2020-11-12 to 2020-11-12 |
+| `ordenanza-36997-2020` | Ordenanza 36997/2020: ARTICULO 1°.- HOMOLOGASE el Contrato de Estudio Clínico patrocinado por Laboratorio INMUNOVA S.A. suscripto con esta Comuna el día 13 de agosto del año 2020. | 1 | 2021-01-06 to 2021-01-06 |
+| `ordenanza-37059-2021` | Ordenanza 37059/2021: Artículo 1°: Acéptese la transmisión de dominio de la superficie identificada en el plano de mensura presentado a fs. 247 de 281,76 m2, pertenecientes a la Asociación Civil Educativa Escocesa San Andrés a favor de la Mun | 1 | 2021-07-03 to 2021-07-03 |
+| `ordenanza-37085-2020` | Ordenanza 37085/2020: ARTICULO 1°.- Impónese el nombre "Sargento Darío "Onírico" Ávalos, G.E.O.F" al Destacamento de la Policía Local de la Plaza Almafuerte, situada en Vicente López, Villa Martelli. | 1 | 2021-02-13 to 2021-02-13 |
+| `ordenanza-37160-2021` | Ordenanza 37160/2021: ARTICULO 1°: ESTABLEZCASE la obligatoriedad de transmitir en vivo y en directo las Sesiones Legislativas del Honorable Concejo Deliberante de Vicente López, sin discriminar su carácter ordinario, extraordinario o especia | 1 | 2021-07-03 to 2021-07-03 |
+| `ordenanza-37173-2021` | Ordenanza 37173/2021: ARTICULO 1°: HOMOLOGASE la Addenda Ampliatoria del Contrato de Locación celebrado entre la Municipalidad de Vicente López y la Sociedad de Fomento y Sala de Primeros Auxilios La Lucila, para que continúe funcionando en e | 1 | 2021-09-15 to 2021-09-15 |
+| `ordenanza-37184-2021` | Ordenanza 37184/2021: ARTICULO 1°: INCORPORAR al Patrimonio Municipal los siguientes bienes: 5 (cinco) impresoras multifunción marca Xerox Versalink C 505; 2 (dos) ecógrafos Clearvue 350 ultrasónico marca Phillips; 2 (dos) cardiodesfibrilador | 1 | 2021-09-15 to 2021-09-15 |
+| `ordenanza-37188-2021` | Ordenanza 37188/2021: ARTICULO 1°: CONVALIDENSE LAS MODIFICACIONES PRESUPUESTARIAS CORRESPONDIENTES AL EJERCICIO 2020 Y HOMOLOGANSE los Decretos del DE correspondientes al Expte. 33 1/20: Decretos 2144/20 DE, 2145/2020 DE, 2619/20 DE, 3022/20 | 1 | 2021-09-15 to 2021-09-15 |
+| `ordenanza-37209-2021` | Ordenanza 37209/2021: ARTÍCULO 1°: Incorpórase el Artículo 15° bis a la Ordenanza N° 24.993 y modificatorias - el cual quedará redactado de la siguiente manera: | 1 | 2021-07-30 to 2021-07-30 |
+| `ordenanza-37297-2021` | Ordenanza 37297/2021: ARTICULO 1°: MODIFICASE el art. 2° de la Ordenanza 36947, el que quedará redactado de la siguiente manera: | 1 | 2021-11-25 to 2021-11-25 |
+| `ordenanza-37299-2021` | Ordenanza 37299/2021: Artículo 1°: HOMOLOGASE el "Convenio entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de Vicente López" suscripto con fecha 8 de julio de 2021, entre las part | 1 | 2021-11-25 to 2021-11-25 |
+| `ordenanza-37300-2021` | Ordenanza 37300/2021: ARTICULO 1°: HOMOLOGASE el "Convenio entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de Vicente López" suscripto con fecha 12 del mes de mayo de 2021, con Re | 1 | 2021-11-25 to 2021-11-25 |
+| `ordenanza-37301-2021` | Ordenanza 37301/2021: ARTÍCULO 1°: OTORGASE una prórroga hasta el 17 de Diciembre de 2021 inclusive a los efectos que el Departamento Ejecutivo presente a este Honorable Concejo Deliberante el Proyecto de Presupuesto de Gastos y Cálculo de Re | 1 | 2021-11-25 to 2021-11-25 |
+| `ordenanza-37302-2021` | Ordenanza 37302/2021: Artículo 1°: Adhiérese el Municipio de Vicente López, a la Ley Nacional N° 27.590 que crea el Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes. | 1 | 2021-11-25 to 2021-11-25 |
+| `ordenanza-37425-2021` | Ordenanza 37425/2021: ARTICULO 1°: Autorizar la reprogramación de las deudas municipales generadas en el marco del "Fondo Especial de Emergencia Sanitaria para la Contención Fiscal Municipal" creado por el Decreto N° 264/20 (ratificado por la | 1 | 2022-01-12 to 2022-01-12 |
+| `ordenanza-37547-2022` | Ordenanza 37547/2022: Articulo 1°: Asignese sentido único de circulacion de ESTE A OESTE a la calle Gdor. Valentín Vergara en el tramo comprendido entre el Paseo de la Costa "Raúl Alfonsin" y la Avenida del Libertador. | 1 | 2022-06-25 to 2022-06-25 |
+| `ordenanza-37548-2022` | Ordenanza 37548/2022: ARTICULO 1°: Se considera tránsito pesado, a los fines de la presente Ordenanza, a todo camión a vehiculo capacitado para transportar carga que supere los 3.500 kg (tres mil quinientos Kilogramos) de conformidad con las  | 1 | 2022-06-25 to 2022-06-25 |
+| `ordenanza-37549-2022` | Ordenanza 37549/2022: ARTICULO 1°: Establécese una velocidad maxima de 30 km/h en los tramos comprendidos de las siguientes calles: | 1 | 2022-06-25 to 2022-06-25 |
+| `ordenanza-37566-2022` | Ordenanza 37566/2022: ARTICULO 1°: Autorizase al Departamento Ejecutivo por intermedio de la Secretaria de Hacienda y Finanzas a proceder a la subasta de los 34 (treinta y cuatro) vehículos que se detallan a continuación, en los términos de l | 1 | 2022-08-06 to 2022-08-06 |
+| `ordenanza-37567-2022` | Ordenanza 37567/2022: ARTICULO 1°: Autorizar la reprogramación de las deudas municipales generadas en el marco del "Fondo Especial de Emergencia Sanitaria para la Contención Fiscal Municipal" creado por el Decreto N° 264/20 (ratificado por la | 1 | 2022-08-06 to 2022-08-06 |
+| `ordenanza-37610-2022` | Ordenanza 37610/2022: ARTICULO 1°: Autorízase la colocación de un cartel fondo blanco con una estrella amarilla, en un poste color blanco, en la acera S-0, de la calle E. Echeverria y R. Castro | 1 | 2022-08-17 to 2022-08-17 |
+| `ordenanza-37627-2022` | Ordenanza 37627/2022: Articulo 1°: Autorizase a! Departamento Ejecutivo a proceder a un nuevo llamado a CONCURSO DE PRECIOS para el otorgamiento de una concesión para la explotación del servicio de bufete y kiosco dentro del Centro Recreativo | 1 | 2022-08-17 to 2022-08-17 |
+| `ordenanza-37808-2022` | Ordenanza 37808/2022: Articulo 1°: AUTORIZAR al Departamento Ejecutivo a colocar un limitador de velocidad, en la calle Castelli metros antes de la intersección con la Avenida Ader. | 1 | 2022-12-15 to 2022-12-15 |
+| `ordenanza-37932-2023` | Ordenanza 37932/2023: ARTICULO 1°: AUTORIZAR la colocación de un cartel fondo blanco con una estrella amarilla, en un poste color blanco, en la acera S-E de la calle Guido Spano e Independencia, debiéndose colocar en las mismas condiciones qu | 1 | 2023-05-13 to 2023-05-13 |
+| `ordenanza-37997-2023` | Ordenanza 37997/2023: Articulo 1°: AUTORIZAR el estacionamiento junto a la acera izquierda de la calle Caseros, entre Gral. José de San Martin y Gdor. Valentin Vergara. | 1 | 2023-06-14 to 2023-06-14 |
+| `ordenanza-38087-2023` | Ordenanza 38087/2023: Artículo 1°: AUTORIZAR la colocación de un cartel fondo blanco con una estrella amarilla, en un poste color blanco, en la acera S-E de Av. Maipú, altura N° 1273/77, debiéndose colocar en las mismas condiciones que las se | 1 | 2023-10-20 to 2023-10-20 |
+| `ordenanza-38089-2023` | Ordenanza 38089/2023: Artículo 1°: INCORPORAR al listado del Registro Único de Nuevas Nomenclaturas Urbanas el nombre de "Petrona Carrizo de Gandulfo". | 1 | 2023-10-20 to 2023-10-20 |
+| `ordenanza-38090-2023` | Ordenanza 38090/2023: Artículo 1°: Declárese de Interés Municipal el Acto Pioneros del Futuro, organizado por la Asociación de Fundadores y Pioneros de Vicente Lopez y el Centro de Veteranos de Guerra de Malvinas de Vicente López, a llevarse  | 1 | 2023-11-26 to 2023-11-26 |
+| `ordenanza-38170-2023` | Ordenanza 38170/2023: Articulo 1°: AUTORIZAR al Departamento Ejecutivo a colocar un limitador de velocidad, en la calle Almafuerte a metros antes de la intersección con la calle Cabildo, del barrio de Carapachay. | 1 | 2023-12-15 to 2023-12-15 |
 
-The build made 73 commits:
+The build made 158 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 73 | first version of an act |
+| 158 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-04.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 73 laws in the record.
-- 146 tags.
+- 158 laws in the record.
+- 231 tags.
 
 ## Dates
 
@@ -112,15 +198,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f82795e89742ad4ced744e9a9f19df8c957106a12def29a4afcf658f140494ba` (430516 bytes).
+- Corpus: sha256 `0692df154c4fd99e0979a31a884ed62e1cec95d93300565444f457b69e5630bc` (947985 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-73 versions of 73 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+158 versions of 158 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 158 history commits and 231 tags (history tip `cdeb4c487350f3d768fffedd7018a204d7b9524a`).
 
 ## Decisions made by hand
 
@@ -129,6 +215,9 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Independent rejection rework: rejected pending input archived byte for byte; six unpublished acts excluded and held; two verbatim current Article 2 restorations.
+- The unchanged live gate rejects empty unpublished withdrawal entries. This replacement pending part contains only the 85 admitted acts, preserving all published inputs and history.
+- All 91 original transcriptions rechecked against fresh official captures; admitted current replacements checked word for word against the official amendment quotations.
 
 ## What AI did and did not do
 
@@ -140,3 +229,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 wrote and reviewed job-local extraction and validation code; no model-generated or model-corrected law text or OCR was used.
